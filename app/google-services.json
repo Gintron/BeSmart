@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "267285047779",
+    "firebase_url": "https://besmart-b0da8.firebaseio.com",
+    "project_id": "besmart-b0da8",
+    "storage_bucket": "besmart-b0da8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267285047779:android:8a662fd98a46d19028d8d6",
+        "android_client_info": {
+          "package_name": "com.r.besmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267285047779-aisiqaoi78ik2smokb6iam9df9avjds6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.r.besmart",
+            "certificate_hash": "796cd09cc68040395d13b030f753600ee645325c"
+          }
+        },
+        {
+          "client_id": "267285047779-bphp1i458sauf166mnofsm6o1ul9iohb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB34ojllWGbqRCjHfi0uhIW7nBxWkjpFQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267285047779-bphp1i458sauf166mnofsm6o1ul9iohb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

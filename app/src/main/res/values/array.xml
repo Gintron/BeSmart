@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="category">
+        <item>
+            Mathematics
+        </item>
+        <item>Physics</item>
+    </array>
+</resources>
